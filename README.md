@@ -1,6 +1,14 @@
 # jinchenma-skill
 
-金尘马公开版 Codex Skills。
+金尘马公开版 AI Agent Skills。
+
+## 最快使用
+
+把下面这句话发给你的 AI Agent，让它帮你安装：
+
+```text
+请从 https://github.com/jinchenma94/jinchenma-skill 安装 jinchenma-article-writing skill 到我的 AI Agent skills 目录。
+```
 
 ## jinchenma-article-writing
 
@@ -19,13 +27,13 @@
 
 ## 怎么用
 
-把这个目录放到你的 Codex skills 目录：
+安装后，这个 skill 目录通常长这样：
 
 ```text
 skills/jinchenma-article-writing/
 ```
 
-然后在 Codex 里直接说你的写作需求，例如：
+然后直接对你的 AI Agent 说写作需求，例如：
 
 ```text
 我想写一篇面向小白的 AI 干货文章，主题是如何让 AI 记住自己。先帮我全网搜素材，并整理成素材索引。
